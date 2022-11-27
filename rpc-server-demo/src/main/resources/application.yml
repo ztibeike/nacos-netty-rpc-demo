@@ -1,0 +1,7 @@
+rpc:
+  nacos:
+    address: nacos.server
+  application:
+    name: rpc-server-demo-service
+  server:
+    port: 7890

@@ -1,0 +1,10 @@
+rpc:
+  nacos:
+    address: nacos.server
+  application:
+    name: rpc-client-demo-service
+  server:
+    port: 7891
+logging:
+  level:
+    com.zt.rpc: debug
