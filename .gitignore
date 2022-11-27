@@ -38,4 +38,6 @@ hs_err_pid*
 
 # IDE Files
 .idea
+*.iml
+
 .vscode
